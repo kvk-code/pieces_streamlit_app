@@ -1,6 +1,3 @@
-### `README.md`
-
-```markdown
 # Pieces Copilot Streamlit Bot
 
 This project is a Streamlit application that integrates with the Pieces Copilot SDK to create an interactive chat interface. Users can start new conversations, view past conversations, and interact with the Pieces Copilot.
@@ -54,4 +51,3 @@ The main logic implemented in `pieces_bot_kvk.py` and `pieces_bot_sample.py` is 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
